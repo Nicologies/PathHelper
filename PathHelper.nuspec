@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>$id$</id>
+
+        <version>$version$</version>
+
+        <authors>$author$</authors>
+
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+        <description>$description$</description>
+
+        <copyright>$copyright$</copyright>
+        <projectUrl>https://github.com/Nicologies/PathHelper</projectUrl>
+        <licenseUrl>https://github.com/Nicologies/PathHelper/blob/master/LICENSE</licenseUrl>
+        <tags>Utility Path</tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
